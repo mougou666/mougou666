@@ -6,4 +6,4 @@
 - Bilibili:mougou666
 - MSN:mougou666@escargot
 - 我的网站
-![](https://mougou666.github.io)
+- https://mougou666.github.io
